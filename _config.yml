@@ -23,7 +23,7 @@ timezone: America/Lima
 
 title: Vpp2000 blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Aquí postearé todo lo que voy aprendiendo sobre desarrollo de software, lenguajes de programación, etc, etc, etc. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
