@@ -1,7 +1,7 @@
 ---
 title: Errores y Excepciones en Java
 author: Victor Ponce
-date: 2022-07-19 11:33:00 -0400
+date: 2023-05-01 11:33:00 -0400
 categories: [Java]
 tags: [Java]
 math: true

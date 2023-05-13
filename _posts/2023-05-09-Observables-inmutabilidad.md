@@ -1,7 +1,7 @@
 ---
 title: Inmutabilidad de los observables
 author: Victor Ponce
-date: 2022-07-19 11:33:00 -0400
+date: 2023-05-09 11:33:00 -0400
 categories: [Java, Project Reactor]
 tags: [Java, Project Reactor]
 math: true
